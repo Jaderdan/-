@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Fern" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.75" />
+    <InheritanceLine Type="NonFloweringPlant" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.125" Y="2.726" />
+        <Point X="6.125" Y="3.125" />
+        <Point X="7.875" Y="3.125" />
+        <Point X="7.875" Y="3.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAQAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Курсова задача.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FloweringPlant" Collapsed="true">
+    <Position X="11.75" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAQAEAAAAAgAAAAAAAAAAIAAAAAACAAAA=</HashCode>
+      <FileName>Курсова задача.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Moss" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Курсова задача.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NonFloweringPlant" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAQAAAAAAAQAAAAAAAgAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Курсова задача.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Plant" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAAAAAAAUAAAAoAAgAAAAAAAACAAAAAAAAAAAEA=</HashCode>
+      <FileName>Курсова задача.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rose" Collapsed="true">
+    <Position X="14.5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABQAAAEAAAgAAAAAEAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Курсова задача.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WildRose" Collapsed="true">
+    <Position X="14.5" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAQAAgAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Курсова задача.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9.75" />
+</ClassDiagram>
